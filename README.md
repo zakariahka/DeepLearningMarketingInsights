@@ -1,4 +1,4 @@
-# NexaBank Marketing Campaign Success Prediction
+# Marketing Campaign Success Prediction
 
 ## Project Overview
 Welcome to my Deep Learning project! This initiative focuses on enhancing the effectiveness of telemarketing campaigns using advanced deep learning techniques. The aim is to predict the success of our telemarketing efforts, offering insights into customer behavior and preferences, and thereby optimizing our marketing strategies.
